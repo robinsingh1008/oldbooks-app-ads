@@ -31,3 +31,4 @@ This folder contains the files needed to host your `app-ads.txt` file for AdMob 
 3. Request verification in AdMob
 
 
+# oldbooks-app-ads
